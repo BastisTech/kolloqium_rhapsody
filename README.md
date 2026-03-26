@@ -1,8 +1,8 @@
 # kolloqium_rhapsody
 ## Rechtliche Informationen
 ### Herausgeber/Urheber
-> &emsp; **Name:** Sebastian Stiller
-> &emsp; **Name:** Bojan Markovic
+> &emsp; **Name:** Sebastian Stiller \
+> &emsp; **Name:** Bojan Markovic \
 ### Kontakt: ### 
 > &emsp; **Telefon**: +43 660 2084555 \
 > &emsp; **E-Mail**: [Kontakt](mailto:kontakt@sebastianstiller.at) \
