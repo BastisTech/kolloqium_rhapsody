@@ -1,2 +1,21 @@
+:doctype: book
+:toc: macro
+:toclevels: 5
+:source-highlighter: highlight.js
+:icons: font
+:pdf-page-size: a4
+:toc-title: Inhaltsverzeichnis
+:lang: DE
+:hyphens:
+:author: Sebastian Stiller, Bojan Markovic
+:docdate: 04-03-2026
+:title: Kolloqium Rhapsody - Songtext
+
+
+
 = Kolloqium Rhapsody
+{author} +
+In der Fassung vom {docdate}
 == Songtext
+
+[verse]
